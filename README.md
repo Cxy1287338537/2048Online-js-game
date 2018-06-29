@@ -8,7 +8,7 @@
 
 ## 效果预览
 
-![Preview](GIF.gif)
+![Preview](show.gif)
 
 ## 项目功能介绍
 
@@ -42,7 +42,7 @@ $ git clone https://github.com/Cxy1287338537/2048Online-js-game.git
 
 ### 步骤图解(直接下载zip的方法)
 
-![Preview](show.gif)
+![Preview](GIF.gif)
 
 ## 联系方式
 
